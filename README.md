@@ -1,12 +1,14 @@
 # :green_circle: HiringProblem_Algorithm
-Contains the java implementation of the Hiring Problem.
+
+
+Contains the java implementation of the **Hiring Problem**.
 
 ## > Information
 
-<b>Language:</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50>
+* <b>Language:</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50>
 
 
-<b>Created (date) :</b> September 2022
+* <b>Created (date) :</b> September 2022
 
 
 ## > Output : 
@@ -17,8 +19,14 @@ Contains the java implementation of the Hiring Problem.
 
 ## > Download and run :
 
-* javac mainClassHiringProblem.java
+```
+cd path_to_the_downloaded_software
+```
 
-
-* java mainClassHiringProblem
+``` 
+javac mainClassHiringProblem.java 
+```
+```
+java mainClassHiringProblem
+```
 
