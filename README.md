@@ -1,4 +1,4 @@
-# @ HiringProblem_Algorithm
+# :green_circle: HiringProblem_Algorithm
 Contains the java implementation of the Hiring Problem.
 
 ## > Information
@@ -6,13 +6,7 @@ Contains the java implementation of the Hiring Problem.
 <b>Language:</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50>
 
 
-<b>Created (date) :</b> Sept 2022
-
-
-<b>Created in :</b> F.Y. M.Sc (SEM I)
-
-
-<b>Created for :</b> Practical scratch implementation
+<b>Created (date) :</b> September 2022
 
 
 ## > Output : 
